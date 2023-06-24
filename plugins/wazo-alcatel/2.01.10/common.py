@@ -15,7 +15,7 @@
 
 """Common code shared by the various wazo-alcatel plugins.
 
-Support the IP Touch 4008EE and 4018EE.
+Support the IP Touch 4008EE  4018EE 4028G.
 
 """
 from __future__ import annotations
